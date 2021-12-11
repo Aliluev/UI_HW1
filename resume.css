@@ -17,3 +17,12 @@ div.info{
     font-family: Arial, Helvetica, sans-serif;  
     margin: 10% 7%;
 }
+
+p.about_me{
+  margin: 0% 3%; 
+    font-style: italic
+}
+
+a:visited {
+    color: #900060; 
+}

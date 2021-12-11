@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 1%;
+}
+
+img{ 
+    
+    
+    width: 260px;
+    height: 300px;
+    
+}
+
+h3 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif;font-size:15px; }
+
+div.info{
+    font-family: Arial, Helvetica, sans-serif;  
+    margin: 10% 7%;
+}
